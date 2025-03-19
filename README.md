@@ -29,5 +29,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitmishra&color=brightgreen)
 
+### 🐍 Contribution Snake Game
+
+![Snake animation](https://github.com/ankitmishra/ankitmishra/blob/output/github-contribution-grid-snake.svg)
+
 <br>
-⭐ From [Ankit Mishra](https://github.com/Ankitmishra05)
+⭐ From [Ankit Mishra](https://github.com/ankitmishra)

@@ -1,37 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 
-- 🔥 I’m a Java Full Stack Developer
-- 🌱 I’m currently learning advanced backend technologies
-- 💬 Ask me anything about Java and Full Stack Development
-- 📧 How to reach me: theankitmishra8657@gmail.com
-- 🌟 My website: https://ankitportfolio-3qr2.vercel.app/
-- ⚡ Fun fact: I love solving coding challenges
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/ankitmishra">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ankitmishra">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/ankitmishra">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# Hello World!, I'm Ankit, a Java Full Stack Developer 👋🏼:
+🖥️ Currently learning and building full-stack applications<br>🎓 Fresher with a passion for coding and problem-solving<br>👨‍💻 Started coding in 2022 during my BCA degree<br>📜 Completed a Java Full Stack certification
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,github,git,postman,figma&perline=5)](https://skillicons.dev)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/hibernate-%234FAE2D.svg?style=for-the-badge&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Ankit Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitmishra&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmishra&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ankitmishra&color=brightgreen)
-
-### 🐍 Contribution Snake Game
-
-![Snake animation](https://github.com/ankitmishra/ankitmishra/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-⭐ From [Ankit Mishra](https://github.com/ankitmishra)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
